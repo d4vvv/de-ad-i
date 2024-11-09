@@ -15,7 +15,7 @@ export default function Home() {
         />
       </div>
       <p className='mt-20'>Spoczywaj w pokoju Adziczku</p>
-      <Link href='first' className='absolute bottom-10'>
+      <Link href='first'>
         <Image src='/images/candle.gif' alt='Dove' width={100} height={100} />
       </Link>
     </div>
